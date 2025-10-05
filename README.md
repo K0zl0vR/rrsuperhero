@@ -1,7 +1,6 @@
 # rrsuperhero
 A simple bear named Roman Romanych must become a hero and solve a crime with his friend Gu
-# Roman Romanych / Роман Романыч 🐻🦸‍♂️
-
+# Roman Romanych / Роман Романыч - [Roman Romanych](https://github.com/K0zl0vR/rrsuperhero/blob/main/%D0%9C%D0%B8%D1%88%D0%BA%D0%B0%20%D0%B2%20%D0%BA%D0%B0%D1%84%D0%B5.jpg?raw=true)
 ![RR Superhero](https://your-image-link.com/rr-superhero.png)  
 *Roman Romanych (RR) — a superhero bear facing mysteries and adventures.*
 
